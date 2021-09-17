@@ -17,7 +17,8 @@
     >
       <div class="container journal">
         <h2 class="journal-title">{{ item.node.title }}</h2>
-        <p class="journal-excerpt">{{ item.node.excerpt }}</p>
+        <!-- <p class="journal-excerpt">{{ item.node.excerpt }}</p> -->
+        <span class="journal-date">{{ item.node.date }}</span>
       </div>
     </g-link>
       
@@ -32,6 +33,7 @@ query Journal {
         id
         path
         title
+        date (format: "DD MMMM YYYY")
         excerpt
       }
     }
@@ -85,6 +87,10 @@ export default {
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
+}
+.journal-date {
+  font-size: 0.8rem;
+  color: var(--color-contrast-2);
 }
 
 @media (min-width: 560px) {
