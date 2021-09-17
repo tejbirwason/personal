@@ -5,8 +5,7 @@ title: Banana
 category: Identity
 thumbnail: "/uploads/crypto.png"
 categories:
-- photography
-- pink
+- bitcoin
 project_bg_color: ''
 project_fg_color: ''
 
