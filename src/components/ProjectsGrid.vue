@@ -7,10 +7,10 @@
                 :alt="item.node.title"
                 class="thumbnail"
             />
-            <h3 class="project-title">{{ item.node.title }}</h3>
+            <!-- <h3 class="project-title">{{ item.node.title }}</h3>
             <div class="categories">
                 <span class="category" v-for="(item, index) in item.node.categories" :key="index">{{ item }}</span>
-            </div>
+            </div> -->
             </g-link>
         </div>
     </div>
