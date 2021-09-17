@@ -1,13 +1,13 @@
 <template>
   <Layout>
 
-    <div class="container">
+    <!-- <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
           a wise person once said...
         </h1>
       </div>
-    </div>
+    </div> -->
 
     <g-link 
       :to="item.node.path"
@@ -71,9 +71,9 @@ export default {
 .journal-post:hover {
   background-color: var(--color-base-1);
 }
-.journal-post:hover > * {
+/* .journal-post:hover > * {
   transform: translateX(4rem);
-}
+} */
 .journal-post h1,
 .journal-post h2 {
   margin: 0;
