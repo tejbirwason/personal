@@ -13,8 +13,6 @@ Reinforcement learning is a lot like this Fatboy Slim video, a course correction
 
 [https://www.youtube.com/watch?v=ub747pprmJ8](https://www.youtube.com/watch?v=ub747pprmJ8 "https://www.youtube.com/watch?v=ub747pprmJ8")
 
-{{< youtube w7Ft2ymGmfc >}}
-
 If AI is on a path to transcend human consciousness, reinforcement learning recreates what humans already consciously do, evolving through pure trial and error. Is this the end of progress in AI?
 
 In other words, will the next step function in AI only happen through a breakthrough in a tangential field that reveals what comes after reinforcement learning?
