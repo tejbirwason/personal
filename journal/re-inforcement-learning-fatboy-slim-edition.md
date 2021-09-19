@@ -11,7 +11,7 @@ The compute resources required for reinforcement learning are 10x those for lang
 
 Reinforcement learning is a lot like this Fatboy Slim video, a course correction in the endless march to somewhere (or nowhere?):
 
-[https://www.youtube.com/watch?v=ub747pprmJ8](https://www.youtube.com/watch?v=ub747pprmJ8 "https://www.youtube.com/watch?v=ub747pprmJ8")
+`youtube:https://www.youtube.com/watch?v=ub747pprmJ8`
 
 If AI is on a path to transcend human consciousness, reinforcement learning recreates what humans already consciously do, evolving through pure trial and error. Is this the end of progress in AI?
 
