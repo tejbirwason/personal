@@ -37,4 +37,5 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
+- journal/movement-is-novacaine.md
 - journal/re-inforcement-learning-fatboy-slim-edition.md
