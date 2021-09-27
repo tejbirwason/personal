@@ -37,5 +37,6 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
+- journal/fast-alone-but-far-together.md
 - journal/movement-is-novacaine.md
 - journal/re-inforcement-learning-fatboy-slim-edition.md
